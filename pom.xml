@@ -36,6 +36,6 @@
         <dependency>
             <groupId>com.techsure</groupId>
             <artifactId>codedriver-event-base</artifactId>
-        </dependency>
+        </dependency> 
     </dependencies>
 </project>
